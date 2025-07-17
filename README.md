@@ -43,3 +43,4 @@ data-compression-tool/ │ ├── input.txt
 # Optional decompression logic ├──
 
 ## 💡 Output 
+![Image](https://github.com/user-attachments/assets/9d91151f-0d39-4f0b-9e27-128bbb136a35)
