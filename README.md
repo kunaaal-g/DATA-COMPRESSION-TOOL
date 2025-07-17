@@ -42,5 +42,8 @@ data-compression-tool/ │ ├── input.txt
 # Main compression logic ├── decompressor.c       
 # Optional decompression logic ├──
 
+## 👨‍💻 Author
+Submitted for CODTECH Internship 2025
+
 ## 💡 Output 
 ![Image](https://github.com/user-attachments/assets/9d91151f-0d39-4f0b-9e27-128bbb136a35)
